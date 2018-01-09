@@ -2,5 +2,5 @@
 FastCamp Front-end Develop School summary
 ___
 
-- 2018.01.08 Computer Science : Computer / Calculator & Computational Thinking
-
+- 18.01.08 Computer Science | Computer / Calculator & Computational Thinking
+- 18.01.09 Computer Science | pseudocode & Algorithm & Data Structures
